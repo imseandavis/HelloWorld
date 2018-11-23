@@ -5,22 +5,20 @@ This is the beginning of everything, maybe we said hi to each other and exchange
 [Connect On GitHub](http://github.com/imseandavis) <br>
 [Connect On Twitter](http://twitter.com/seanasaservice) <br>
 [Connect On LinkedIn](http://linkedin.com/in/imseandavis) <br>
-[Resume]()
 
 ## My Websites
-[My Blog]() <br>
-[Cloud Comparison Site]() 
+[My Blog](http://blog.imseandavis.com) <br>
+[Cloud Comparison Site](cloudcomparison.seanasasservice.com) 
 
 ## Certifications
-[CompTIA A+]() <br>
-[DOI DevOps Foundations]() <br>
-[DOI DevOps Leadership]() <br>
-[DOI DevOps Test Engineer]() <br>
-[DOI DevSecOps Engineer]() <br>
-[DOI Continous Delivery Architect]() <br>
-[Scrum.org PSM I]()
+[DOI DevOps Foundations - License GR797006099SD](https://www.itsmacademy.com/dofnd/) <br>
+[DOI DevOps Leader - License GR685000115SD](https://www.itsmacademy.com/dol) <br>
+[DOI DevOps Test Engineer - License GR684000048SD](https://www.itsmacademy.com/dte) <br>
+[DOI DevSecOps Engineer - License GR687000009SD](http://itsm.com/) <br>
+[DOI Continous Delivery Architect](https://www.itsmacademy.com/cda) <br>
+[Scrum.org PSM I - ID: 421614](https://www.scrum.org/user/421614)
 
 ## Community Involvement
-[DevOps Institute Instructor]() <br>
-[ITSM Academy Instructor]() <br>
-[PluralSight Author]()
+DevOps Institute Instructor <br>
+ITSM Academy Instructor <br>
+PluralSight Author
