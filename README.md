@@ -20,6 +20,8 @@ On all DevOps certifications below use the code SEANDAVIS and you will get 10% o
 [Professional Scrum Master I (PSM I)- ID: 421614](https://www.scrum.org/user/421614)
 
 ## Community Involvement
+Georgia Technology Association Group Member <br>
+Nationwide Public Speaker on Business Transformation / Leadership / DevOps <br>
 DevOps Institute Instructor <br>
 ITSM Academy Instructor <br>
 PluralSight Author
