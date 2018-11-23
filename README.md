@@ -8,7 +8,7 @@ This is the beginning of everything, maybe we said hi to each other and exchange
 
 ## My Websites
 [My Blog](http://blog.imseandavis.com) <br>
-[Cloud Comparison Site](http://cloudcomparison.seanasasservice.com) 
+[Cloud Comparison Site](http://cloudcomparison.seanasaservice.com/) 
 
 ## Certifications
 [DOI DevOps Foundations - License GR797006099SD](https://www.itsmacademy.com/dofnd/) <br>
