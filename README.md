@@ -8,7 +8,7 @@ This is the beginning of everything, maybe we said hi to each other and exchange
 [My Speaking Engagements & Presentations](http://github.com/imseandavis/presentations)
 
 ## My Websites
-[My Blog](http://blog.imseandavis.com) <br>
+[Blog](http://blog.imseandavis.com) <br>
 [Cloud Comparison Site](http://cloudcomparison.seanasaservice.com/) 
 
 ## Certifications
