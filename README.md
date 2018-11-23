@@ -22,6 +22,7 @@ On all DevOps certifications below use the code SEANDAVIS and you will get 10% o
 ## Community Involvement
 Georgia Technology Association Group Member <br>
 Nationwide Public Speaker on Business Transformation / Leadership / DevOps <br>
+Conversational Geek Author (Coming Soon...)
 DevOps Institute Instructor <br>
 ITSM Academy Instructor <br>
 PluralSight Author
