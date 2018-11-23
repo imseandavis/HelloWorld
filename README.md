@@ -2,10 +2,9 @@
 This is the beginning of everything, maybe we said hi to each other and exchanged information or maybe you attended a session I gave, or may you were given on of my secret cards that lead you here. No matter the journey, you have arrived! Here you will find all the information about me and links to connect through various forms of media. I'm looking forward to connecting with you and feel free to reach out to me with any questions you may have. 
 
 ## Connect With Me
-<script async defer src="https://buttons.github.io/buttons.js"></script>
-<a class="github-button" href="https://github.com/imseandavis" aria-label="Follow @imseandavis on GitHub">Follow @imseandavis</a> <br>
-[Connect On Twitter]() <br>
-[Connect On LinkedIn]() <br>
+[Connect On GitHub](http://www.github.com/imseandavis) <br>
+[Connect On Twitter](http://twitter.com/seanasaservice) <br>
+[Connect On LinkedIn](http://linkedin.com/in/imseandavis) <br>
 [Resume]()
 
 ## My Websites
