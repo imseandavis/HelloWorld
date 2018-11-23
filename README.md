@@ -5,7 +5,7 @@ This is the beginning of everything, maybe we said hi to each other and exchange
 [Connect On GitHub](http://github.com/imseandavis) <br>
 [Connect On Twitter](http://twitter.com/seanasaservice) <br>
 [Connect On LinkedIn](http://linkedin.com/in/imseandavis) <br>
-[My Speaking Engagements](http://github.com/imseandavis/presentations)
+[My Speaking Engagements & Presentations](http://github.com/imseandavis/presentations)
 
 ## My Websites
 [My Blog](http://blog.imseandavis.com) <br>
