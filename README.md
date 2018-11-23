@@ -11,13 +11,13 @@ This is the beginning of everything, maybe we said hi to each other and exchange
 [Cloud Comparison Site](http://cloudcomparison.seanasaservice.com/) 
 
 ## Certifications
-On all certifications if you are interested in getting certified, use the code SEANDAVIS and you will get 10% off the course price.<br>
-[DOI DevOps Foundations - License GR797006099SD](https://www.itsmacademy.com/dofnd/) <br>
-[DOI DevOps Leader - License GR685000115SD](https://www.itsmacademy.com/dol) <br>
-[DOI DevOps Test Engineer - License GR684000048SD](https://www.itsmacademy.com/dte) <br>
-[DOI DevSecOps Engineer - License GR687000009SD](http://itsm.com/) <br>
-[DOI Continous Delivery Architect](https://www.itsmacademy.com/cda) <br>
-[Scrum.org PSM I - ID: 421614](https://www.scrum.org/user/421614)
+On all DevOps certifications below use the code SEANDAVIS and you will get 10% off the course.<br>
+[DevOps Foundations - License GR797006099SD](https://www.itsmacademy.com/dofnd/) <br>
+[DevOps Leader - License GR685000115SD](https://www.itsmacademy.com/dol) <br>
+[DevOps Test Engineer - License GR684000048SD](https://www.itsmacademy.com/dte) <br>
+[DevSecOps Engineer - License GR687000009SD](http://itsm.com/) <br>
+[Continous Delivery Architect](https://www.itsmacademy.com/cda) <br>
+[Professional Scrum Master I (PSM I)- ID: 421614](https://www.scrum.org/user/421614)
 
 ## Community Involvement
 DevOps Institute Instructor <br>
