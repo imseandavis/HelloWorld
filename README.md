@@ -2,7 +2,7 @@
 This is the beginning of everything, maybe we said hi to each other and exchanged information or maybe you attended a session I gave, or may you were given one of my business or secret code cards that led you here. No matter the journey, you have arrived! Here you will find all the information about me and links to connect through various forms of media. I'm looking forward to connecting with you and feel free to reach out to me with any questions you may have. 
 
 ## Current Role
-I'm the Chief Transformation Evangelist For Equifax. My focus is around spreading the good word of how we are helping people live thier financial best while driving fanatical customer and consumer delight and engaging the community to create market feedback loops enabling us to deliver the next generation of services as leaders of our industry. <br><br>
+I'm the Chief Transformation Evangelist For Equifax. My focus is around spreading the good word of how we are helping people live thier financial best while driving fanatical customer and consumer delight and engaging the community to create market feedback loops enabling us to deliver the next generation of services as leaders of our industry. <br>
 
 ## Connect With Me
 [Connect On GitHub](http://github.com/imseandavis) <br>
