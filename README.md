@@ -12,7 +12,7 @@ I'm the Chief Transformation Evangelist For Equifax. My focus is around spreadin
 
 ## My Websites
 [Blog](http://imseandavis.com/blog) <br>
-[Podcast - Coming Soon!](#)
+[Podcast - Coming Soon!](#) <br>
 [Personal Website](http://imseandavis.com) <br>
 [Cloud Comparison Site](http://cloudcomparison.seanasaservice.com/) 
 
