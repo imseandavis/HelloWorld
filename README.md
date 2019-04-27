@@ -11,8 +11,9 @@ I'm the Chief Transformation Evangelist For Equifax. My focus is around spreadin
 [My Speaking Engagements & Presentations](http://github.com/imseandavis/presentations)
 
 ## My Websites
-[Personal Website](http://imseandavis.com) <br>
 [Blog](http://imseandavis.com/blog) <br>
+[Podcast - Coming Soon!](#)
+[Personal Website](http://imseandavis.com) <br>
 [Cloud Comparison Site](http://cloudcomparison.seanasaservice.com/) 
 
 ## Certifications
