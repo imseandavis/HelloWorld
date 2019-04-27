@@ -22,7 +22,7 @@ On all DevOps certifications below, use the code SEANDAVIS and you will get 10% 
 [DevOps Leader - License GR685000115SD](https://www.itsmacademy.com/dol/) <br>
 [DevOps Test Engineer - License GR684000048SD](https://www.itsmacademy.com/dte/) <br>
 [DevSecOps Engineer - License GR687000009SD](http://itsm.com/dsoe/) <br>
-[Continous Delivery Architect](https://www.itsmacademy.com/cda/) <br>
+[Continuous Delivery Architect](https://www.itsmacademy.com/cda/) <br>
 [Professional Scrum Master I (PSM I)- ID: 421614](https://www.scrum.org/user/421614) <br>
 [ITIL v4 Foundations - License GR671010952SD](https://www.itsmacademy.com/itil4fnd/) <br>
 [Certified Agile Process Owner](https://www.itsmacademy.com/capo/)<br><br>
