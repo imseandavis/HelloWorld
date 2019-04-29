@@ -8,7 +8,7 @@ I'm the Chief Transformation Evangelist For Equifax. My focus is around spreadin
 [Connect On GitHub](http://github.com/imseandavis) <br>
 [Connect On Twitter](http://twitter.com/seanasaservice) <br>
 [Connect On LinkedIn](http://linkedin.com/in/imseandavis) <br>
-[My Speaking Engagements & Presentations](http://github.com/imseandavis/presentations)
+[My Speaking Engagements & Presentations](http://github.com/imseandavis/presentations) <br>
 [I WANT TO BE A SPEAKER TOO!](http://github.com/imseandavis/presentations/iwanttobeaspeaker)
 
 ## My Websites
