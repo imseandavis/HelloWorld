@@ -1,20 +1,21 @@
 ## Free Community Learning
-[Meetup.com](http://www.meetup.com) – Join or create meetups with common interests for free local community events
-[Slack Curated Community Channels](https://standuply.com/slack-chat-groups) - Over 2500 Curated Tech Slack Community Channels To Get Connected To Industry Peers
+[Meetup.com](http://www.meetup.com) – Join or create meetups with common interests for free local community events <br>
+[Slack Curated Community Channels](https://standuply.com/slack-chat-groups) - Over 2500 Curated Tech Slack Community Channels To Get Connected To Industry Peers <br><br>
+
 
 ## Books
-[Google SRE Books](https://landing.google.com/sre/books) - Continually Updated SRE Guide and Wookbook)
-[Free Tech Books For All Disciplines](http://www.freetechbooks.com)
-Packt Books - https://www.packtpub.com/packt/offers/free-learning
-O’reilly Programming Books - https://www.oreilly.com/programming/free/
-Microsoft Press eBooks - https://mva.microsoft.com/ebooks
-eBook Foundation Free Developer Books On Every Development Language - https://github.com/EbookFoundation/free-programming-books/blob/master/free-programming-books.md
+[Google SRE Books](https://landing.google.com/sre/books) - Continually Updated SRE Guide and Wookbook) <br>
+[Free Tech Books For All Disciplines](http://www.freetechbooks.com) <br>
+Packt Books - https://www.packtpub.com/packt/offers/free-learning <br>
+O’reilly Programming Books - https://www.oreilly.com/programming/free/ <br>
+Microsoft Press eBooks - https://mva.microsoft.com/ebooks <br>
+eBook Foundation Free Developer Books On Every Development Language - https://github.com/EbookFoundation/free-programming-books/blob/master/free-programming-books.md <br><br>
 
 
 ## Videos
-Edureka YouTube Channel (800K Subscriptions - Free Videos On Virtually Any Technology) - https://www.youtube.com/channel/UCkw4JCwteGrDHIsyIIKo4tQ
-Google Cloud Platform Channel - https://www.youtube.com/user/googlecloudplatform
-Simplilearn (Advanced How To / For Beginners Sections) - https://www.youtube.com/user/Simplilearn/featured
+[Edureka YouTube Channel](https://www.youtube.com/channel/UCkw4JCwteGrDHIsyIIKo4tQ) - 800K Subscriptions Can't be wrong. One of, if not the largest collection of HIGH QUALITY, free training videos on virtually every technology discpline or topic. <br>
+[Google Cloud Platform Channel](https://www.youtube.com/user/googlecloudplatform) - Google's own YouTube channel replete with videos that cover all their events as well as practical application of thier platform across all discipline areas. <br>
+[Simplilearn](https://www.youtube.com/user/Simplilearn/featured) - Great for beginners and advanced how to sections alike. <br><br> 
 
 
 ## Tools
