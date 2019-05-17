@@ -1,4 +1,7 @@
-## Free Community Learning
+## Free Learning
+As an educator and practitioner, I believe in free education for the masses to help augment profrssional training. Here is a curated list of free training that you can utilize. Feel free to send me pull requests and I'll update.
+
+## Community Events
  - [Meetup.com](http://www.meetup.com) – Join or create meetups with common interests for free local community events <br>
  - [Slack Curated Community Channels](https://standuply.com/slack-chat-groups) - Over 2500 Curated Tech Slack Community Channels To Get Connected To Industry Peers <br><br>
 
