@@ -1,15 +1,15 @@
 ## Free Community Learning
-[Meetup.com](http://www.meetup.com) – Join or create meetups with common interests for free local community events <br>
-[Slack Curated Community Channels](https://standuply.com/slack-chat-groups) - Over 2500 Curated Tech Slack Community Channels To Get Connected To Industry Peers <br><br>
+ - [Meetup.com](http://www.meetup.com) – Join or create meetups with common interests for free local community events <br>
+ - [Slack Curated Community Channels](https://standuply.com/slack-chat-groups) - Over 2500 Curated Tech Slack Community Channels To Get Connected To Industry Peers <br><br>
 
 
 ## Books
-[Google SRE Books](https://landing.google.com/sre/books) - Continually Updated SRE Guide and Wookbook) <br>
-[Free Tech Books For All Disciplines](http://www.freetechbooks.com) <br>
-Packt Books - https://www.packtpub.com/packt/offers/free-learning <br>
-O’reilly Programming Books - https://www.oreilly.com/programming/free/ <br>
-Microsoft Press eBooks - https://mva.microsoft.com/ebooks <br>
-eBook Foundation Free Developer Books On Every Development Language - https://github.com/EbookFoundation/free-programming-books/blob/master/free-programming-books.md <br><br>
+ - [Google SRE Books](https://landing.google.com/sre/books) - Continually Updated SRE Guide and Wookbook) <br>
+ - [Free Tech Books For All Disciplines](http://www.freetechbooks.com) <br>
+ - [Packt Books](https://www.packtpub.com/packt/offers/free-learning) <br>
+ - [O’reilly Programming Books](https://www.oreilly.com/programming/free) <br>
+ - [Microsoft Press eBooks](https://mva.microsoft.com/ebooks) <br>
+ - [eBook Foundation Free Developer Books On Every Development Language](https://github.com/EbookFoundation/free-programming-books/blob/master/free-programming-books.md) <br><br>
 
 
 ## Videos
