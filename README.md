@@ -36,4 +36,4 @@ DevOps Institute Instructor <br>
 ITSM Academy Instructor <br><br>
 
 ## Free Education Resources
-As an educator and practitioner, I believe in a world with free education for all and as such I have created a comprehensive list of resources you can find [here]() which should cover just about anyhting you would want to learn for free.
+As an educator and practitioner, I believe in a world with free education for all and as such I have created a comprehensive list of resources you can find [here](https://github.com/imseandavis/HelloWorld/blob/master/EDUCATION.md) which should cover just about anyhting you would want to learn for free.
