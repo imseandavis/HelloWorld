@@ -34,3 +34,6 @@ TAG DevOps Society Board Vice Chair <br>
 Nationwide Public Speaker on Business Transformation / Leadership / DevOps / DevSecOps <br>
 DevOps Institute Instructor <br>
 ITSM Academy Instructor <br>
+
+## Free Education Resources
+As an educator and practitioner, I believe in a world with free education for all and as such I have created a comprehensive list of resources you can find [here]() which should cover just about anyhting you would want to learn for free.
