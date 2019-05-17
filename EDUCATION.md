@@ -25,7 +25,7 @@
  - [Google Quiklabs](https://google.qwiklabs.com/catalog) <br><br>
 
 
-## Training Sites (Free But Has Paid Upgrades As Well)
+## Training Sites
  - [OWASP SAMM (Security / DevSec)](https://www.owasp.org/index.php/OWASP_SAMM_Project#tab=Browse_Online) <br>
  - [Code Academy](http://www.codeacademy.com) <br>
  - [EDX](https://www.edx.org) <br>
