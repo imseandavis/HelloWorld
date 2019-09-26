@@ -8,6 +8,8 @@ I'm the Chief Transformation Evangelist For Equifax. My focus is around spreadin
 [Connect On GitHub](http://github.com/imseandavis) <br>
 [Connect On Twitter](http://twitter.com/seanasaservice) <br>
 [Connect On LinkedIn](http://linkedin.com/in/imseandavis) <br>
+
+## Speaking Materials
 [My Speaking Engagements & Presentations](http://github.com/imseandavis/presentations) <br>
 [I WANT TO BE A SPEAKER TOO!](https://github.com/imseandavis/Presentations/tree/master/Speaker)
 
@@ -31,9 +33,10 @@ On all DevOps certifications below, use the code SEANDAVIS and you will get 10% 
 ## Community Involvement
 Technology Association of Georgia Group Board Member <br>
 TAG DevOps Society Board Vice Chair <br>
+DevOps Institute - DevOps Ambassador <br>
 Nationwide Public Speaker on Business Transformation / Leadership / DevOps / DevSecOps <br>
 DevOps Institute Instructor <br>
 ITSM Academy Instructor <br><br>
 
 ## Free Education Resources
-As an educator and practitioner, I believe in a world with free education for all and as such I have created a comprehensive list of resources you can find [here](https://github.com/imseandavis/HelloWorld/blob/master/EDUCATION.md) which should cover just about anyhting you would want to learn for free.
+As an educator and practitioner, I believe in a world with free education for all and as such I have created a comprehensive list of resources you can find [here](https://github.com/imseandavis/HelloWorld/blob/master/EDUCATION.md) which should cover just about anything you would want to learn for free.
