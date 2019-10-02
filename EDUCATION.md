@@ -1,5 +1,5 @@
 ## Free Learning
-As an educator and practitioner, I believe in free education for the masses to help augment profrssional training. Here is a curated list of free training that you can utilize. Feel free to send me pull requests and I'll update.
+As an educator and practitioner, I believe in free education for the masses to help augment professional training. Here is a curated list of free training that you can utilize. Feel free to send me pull requests and I'll update.
 
 ## Community Events
  - [Meetup.com](http://www.meetup.com) – Join or create meetups with common interests for free local community events <br>
@@ -25,7 +25,7 @@ As an educator and practitioner, I believe in free education for the masses to h
  - [Cloud Service Comparison Site](http://cloudcomparison.seanasaservice.com) <br>
  - [OWASP BWA](https://www.owasp.org/index.php/OWASP_Broken_Web_Applications_Project) <br>
  - [OWASP DevSecOps Project](https://www.owasp.org/index.php/OWASP_DevSecOps_Studio_Project) <br>
- - [Google Quiklabs](https://google.qwiklabs.com/catalog) <br><br>
+ - [Google Qwiklabs](https://google.qwiklabs.com/catalog) <br><br>
 
 
 ## Training Sites
