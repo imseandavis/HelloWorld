@@ -29,7 +29,7 @@ As an educator and practitioner, I believe in free education for the masses to h
 
 
 ## Training Sites
- - [AWS Training](https://aws.training) <br>
+ - [AWS Training (Free Courses)](https://aws.training) <br>
  - [OWASP SAMM (Security / DevSec)](https://www.owasp.org/index.php/OWASP_SAMM_Project#tab=Browse_Online) <br>
  - [Code Academy](http://www.codeacademy.com) <br>
  - [EDX](https://www.edx.org) <br>
