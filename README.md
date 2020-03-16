@@ -31,8 +31,9 @@ On all DevOps certifications below, use the code SEANDAVIS and you will get 10% 
 [Certified Agile Process Owner](https://www.itsmacademy.com/capo/)
 
 ## Community Involvement
+Adapt Transformation Founding Advisory Board Member <br>
 Technology Association of Georgia Group Board Member <br>
-TAG DevOps Society Board Vice Chair <br>
+TAG DevOps Society Board Chair <br>
 DevOps Institute - DevOps Ambassador <br>
 Nationwide Public Speaker on Business Transformation / Leadership / DevOps / DevSecOps <br>
 DevOps Institute Instructor <br>
