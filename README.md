@@ -31,13 +31,13 @@ On all DevOps certifications below, use the code SEANDAVIS and you will get 10% 
 [Certified Agile Process Owner](https://www.itsmacademy.com/capo/)
 
 ## Community Involvement
-Adapt Transformation Founding Advisory Board Member <br>
+[Adapt Transformation Founding Advisory Board Member](http://www.adapttransformation.com/adapt-model-community-board-of-advisors/) <br>
 Technology Association of Georgia Group Board Member <br>
-TAG DevOps Society Board Chair <br>
-DevOps Institute - DevOps Ambassador <br>
+[TAG DevOps Society Board Chair](https://www.tagonline.org/societies/devops/) <br>
+[DevOps Institute - DevOps Ambassador](https://devopsinstitute.com/become-a-community-member/devops-institute-ambassador/) <br>
 Nationwide Public Speaker on Business Transformation / Leadership / DevOps / DevSecOps <br>
-DevOps Institute Instructor <br>
-ITSM Academy Instructor <br>
+[DevOps Institute Accredited DevOps/DevSecOps Instructor](https://devopsinstitute.com/certifications/) <br>
+[ITSM Academy Accredited DevOps/DevSecOps Instructor](https://www.itsmacademy.com/devopscampus) <br>
 
 ## Free Education Resources
 As an educator and practitioner, I believe in a world with free education for all and as such I have created a comprehensive list of resources you can find [here](https://github.com/imseandavis/HelloWorld/blob/master/EDUCATION.md) which should cover just about anything you would want to learn for free.
