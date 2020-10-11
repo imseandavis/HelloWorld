@@ -23,7 +23,7 @@ I'm was the Chief Transformation Evangelist For Equifax. My focus was around spr
 [Cloud Comparison Site](http://cloudcomparison.seanasaservice.com/) 
 
 ## My Credentials
-Updating Due To Missing Badges - [My Acclaim Profile](https://www.scaledagile.com/certification/courses/safe-devops/)
+Updating Due To Missing Badges - [My Acclaim Profile](https://www.scaledagile.com/certification/courses/safe-devops/) <br>
 Updating Due To Missing Badges - [My Credly Profile](https://credly.com/u/imseandavis)
 
 On all DevOps certifications below, use the code SEANDAVIS and you will get 10% off when you sign up for the course.<br><br>
