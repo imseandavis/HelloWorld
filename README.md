@@ -43,6 +43,7 @@ Technology Association of Georgia Group Board Member <br>
 Nationwide Public Speaker on Business Transformation / Leadership / DevOps / DevSecOps <br>
 [DevOps Institute Accredited DevOps/DevSecOps Instructor](https://devopsinstitute.com/certifications/) <br>
 [ITSM Academy Accredited DevOps/DevSecOps Instructor](https://www.itsmacademy.com/devopscampus) <br>
+[DevOps Institute Pioneer DevOps Ambassador](https://devopsinstitute.com/about-us/ambassadors/)
 
 ## Free Education Resources
 As an educator and practitioner, I believe in a world with free education for all and as such I have created a comprehensive list of resources you can find [here](https://github.com/imseandavis/HelloWorld/blob/master/EDUCATION.md) which should cover just about anything you would want to learn for free.
