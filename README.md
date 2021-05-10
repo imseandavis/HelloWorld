@@ -37,7 +37,6 @@ Updating Due To Missing Badges - [My Acclaim Profile](https://www.scaledagile.co
 Updating Due To Missing Badges - [My Credly Profile](https://credly.com/u/imseandavis)
 
 ## My Most Recent Certifications
-- Use the code SEANDAVIS on ITSM Academy / DevOps Institute On Any DevOps Course For 10% off <br>
 [DevOps Foundations - License GR797006099SD](https://www.itsmacademy.com/dofnd/) <br>
 [DevOps Leader - License GR685000115SD](https://www.itsmacademy.com/dol/) <br>
 [DevOps Test Engineer - License GR684000048SD](https://www.itsmacademy.com/dte/) <br>
@@ -45,6 +44,8 @@ Updating Due To Missing Badges - [My Credly Profile](https://credly.com/u/imsean
 [Professional Scrum Master I (PSM I)- ID: 421614](https://www.scrum.org/user/421614) <br>
 [ITIL v4 Foundations - License GR671010952SD](https://www.itsmacademy.com/itil4fnd/) <br>
 [Certified SAFe 5 DevOps Practitioner - ID: 68921157-9918](https://www.scaledagile.com/certification/courses/safe-devops/)
+<br>
+- Bonus: Use the code SEANDAVIS on ITSM Academy / DevOps Institute On Any DevOps Course For 10% off
 
 ## Community Involvement
 [Adapt Transformation Founding Advisory Board Member](http://www.adapttransformation.com/adapt-model-community-board-of-advisors/) <br>
