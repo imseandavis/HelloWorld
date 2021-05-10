@@ -7,6 +7,9 @@ I'm the Information Security DevSecOps Advisor for TransUnion. My focus is on en
 ## Previous Role
 I'm was the Chief Transformation Evangelist For Equifax. My focus was around spreading the good word of how Equifax is helping people live thier financial best while driving fanatical customer and consumer delight and engaging the community to create market feedback loops enabling them to deliver the next generation of services as leaders of our industry. <br>
 
+## Read About Me
+[Resume](https://github.com/imseandavis/HelloWorld/blob/master/Your_New_Employee.pdf) <br>
+
 ## Connect With Me
 [Connect On GitHub](http://github.com/imseandavis) <br>
 [Connect On Twitter](http://twitter.com/seanasaservice) <br>
