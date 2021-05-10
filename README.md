@@ -10,6 +10,10 @@ I'm was the Chief Transformation Evangelist For Equifax. My focus was around spr
 ## Bio
 Sean Davis recently joined Transunion as a DevSecOps Advocate to drive change in information security and enable secure, scalable products in the cloud. Prior to Transunion, Sean was the Chief Transformation Evangelist for Equifax. He is focused on creating opportunities between the market, customers, consumers, technology, and security teams to deliver exceptional experiences and exponential talent and market growth. He currently sits on several technology advisor boards and is a flagship instructor and ambassador for DevOps Institute and brand ambassador for YouExec. Sean enjoys coaching technical teams and individuals so they can exceed their own expectations and build secure, durable, and scalable business cultures and products. His primary areas of expertise are around business transformation, technical leadership, DevOps, Agile, and performance coaching.
 
+## Resume
+[One Pager](https://github.com/imseandavis/HelloWorld/blob/master/Your_New_Employee.pdf) <br>
+[Long Form - TBD]()
+
 ## Read About Me
 [Resume](https://github.com/imseandavis/HelloWorld/blob/master/Your_New_Employee.pdf) <br>
 
