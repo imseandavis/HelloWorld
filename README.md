@@ -26,7 +26,7 @@ I'm was the Chief Transformation Evangelist For Equifax. My focus was around spr
 Updating Due To Missing Badges - [My Acclaim Profile](https://www.scaledagile.com/certification/courses/safe-devops/) <br>
 Updating Due To Missing Badges - [My Credly Profile](https://credly.com/u/imseandavis)
 
-On all DevOps certifications below, use the code SEANDAVIS and you will get 10% off when you sign up for the course.<br><br>
+## My Most Recent Certifications (use the code SEANDAVIS on ITSM Academy / DevOps Institute On Any DevOps Course For 10% off)<br><br>
 [DevOps Foundations - License GR797006099SD](https://www.itsmacademy.com/dofnd/) <br>
 [DevOps Leader - License GR685000115SD](https://www.itsmacademy.com/dol/) <br>
 [DevOps Test Engineer - License GR684000048SD](https://www.itsmacademy.com/dte/) <br>
@@ -38,8 +38,7 @@ On all DevOps certifications below, use the code SEANDAVIS and you will get 10% 
 ## Community Involvement
 [Adapt Transformation Founding Advisory Board Member](http://www.adapttransformation.com/adapt-model-community-board-of-advisors/) <br>
 Technology Association of Georgia Group Board Member <br>
-[TAG DevOps Society Board Chair](https://www.tagonline.org/societies/devops/) <br>
-[DevOps Institute - Founding DevOps Ambassador](https://devopsinstitute.com/become-a-community-member/devops-institute-ambassador/) <br>
+Retired - [TAG DevOps Society Board Chair](https://www.tagonline.org/societies/devops/) <br>
 Nationwide Public Speaker on Business Transformation / Leadership / DevOps / DevSecOps <br>
 [DevOps Institute Accredited DevOps/DevSecOps Instructor](https://devopsinstitute.com/certifications/) <br>
 [ITSM Academy Accredited DevOps/DevSecOps Instructor](https://www.itsmacademy.com/devopscampus) <br>
