@@ -2,20 +2,16 @@
 This is the beginning of everything, maybe we said hi to each other and exchanged information, you attended a session I gave, or maybe you were given one of my business or secret code cards that led you here. No matter the journey, you have arrived! Here you will find all the information about me and links to connect through various forms of media. I'm looking forward to connecting with you and feel free to reach out to me with any questions you may have. 
 
 ## Current Role
-I'm the Information Security DevSecOps Advisor for TransUnion. My focus is on enabling the DevSecOps Transformation to leverage Information for Good to deliver best in class and secure credit decisioning and identity services to our global customers.
+I'm the Chief Security Architect for TransUnion. My focus is enabling a global security posture, leveraging DevSecOps to transform our services to build Information for Good and deliver best in class and secure credit decisioning and identity services to our global customers.
 
 ## Previous Role
 I'm was the Chief Transformation Evangelist For Equifax. My focus was around spreading the good word of how Equifax is helping people live thier financial best while driving fanatical customer and consumer delight and engaging the community to create market feedback loops enabling them to deliver the next generation of services as leaders of our industry. <br>
 
 ## Bio
-Sean Davis recently joined Transunion as a DevSecOps Advocate to drive change in information security and enable secure, scalable products in the cloud. Prior to Transunion, Sean was the Chief Transformation Evangelist for Equifax. He is focused on creating opportunities between the market, customers, consumers, technology, and security teams to deliver exceptional experiences and exponential talent and market growth. He currently sits on several technology advisor boards and is a flagship instructor and ambassador for DevOps Institute and brand ambassador for YouExec. Sean enjoys coaching technical teams and individuals so they can exceed their own expectations and build secure, durable, and scalable business cultures and products. His primary areas of expertise are around business transformation, technical leadership, DevOps, Agile, and performance coaching.
+Sean Davis is the Chief Security Architect for Transunion. As a resident DevSecOps Advocate, he drives change in information security to enable secure, scalable products in the cloud. Prior to Transunion, Sean was the Chief Transformation Evangelist for Equifax. He was focused on creating opportunities between the market, customers, consumers, technology, and security teams to deliver exceptional experiences and exponential talent and market growth. He currently sits on several technology advisor boards and is a flagship instructor and ambassador for DevOps Institute and brand ambassador for YouExec. Sean enjoys coaching technical teams and individuals so they can exceed their own expectations and build secure, durable, and scalable business cultures and products. His primary areas of expertise are around business transformation, technical leadership, DevOps, Agile, and performance coaching.
 
 ## Resume
 [One Pager](https://github.com/imseandavis/HelloWorld/blob/master/Your_New_Employee.pdf) <br>
-[Long Form - TBD]()
-
-## Read About Me
-[Resume](https://github.com/imseandavis/HelloWorld/blob/master/Your_New_Employee.pdf) <br>
 
 ## Connect With Me
 [Connect On GitHub](http://github.com/imseandavis) <br>
@@ -28,13 +24,8 @@ Sean Davis recently joined Transunion as a DevSecOps Advocate to drive change in
 
 ## My Websites
 [Blog](http://imseandavis.com/blog) <br>
-[Podcast - Coming Soon!](#) <br>
 [Personal Website](http://imseandavis.com) <br>
 [Cloud Comparison Site](http://cloudcomparison.seanasaservice.com/) 
-
-## My Credentials
-Updating Due To Missing Badges - [My Acclaim Profile](https://www.scaledagile.com/certification/courses/safe-devops/) <br>
-Updating Due To Missing Badges - [My Credly Profile](https://credly.com/u/imseandavis)
 
 ## My Most Recent Certifications
 [DevOps Foundations - License GR797006099SD](https://www.itsmacademy.com/dofnd/) <br>
@@ -49,8 +40,7 @@ Updating Due To Missing Badges - [My Credly Profile](https://credly.com/u/imsean
 
 ## Community Involvement
 [Adapt Transformation Founding Advisory Board Member](http://www.adapttransformation.com/adapt-model-community-board-of-advisors/) <br>
-Technology Association of Georgia Group Board Member <br>
-Retired - [TAG DevOps Society Board Chair](https://www.tagonline.org/societies/devops/) <br>
+Retired Technology Association of Georgia Group Board Chair - [TAG DevOps Society Board Chair](https://www.tagonline.org/societies/devops/) <br>
 Nationwide Public Speaker on Business Transformation / Leadership / DevOps / DevSecOps <br>
 [DevOps Institute Accredited DevOps/DevSecOps Instructor](https://devopsinstitute.com/certifications/) <br>
 [ITSM Academy Accredited DevOps/DevSecOps Instructor](https://www.itsmacademy.com/devopscampus) <br>
